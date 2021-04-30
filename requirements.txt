@@ -8,3 +8,4 @@ Flask-Compress
 gunicorn
 numpy
 plotly
+pandas
